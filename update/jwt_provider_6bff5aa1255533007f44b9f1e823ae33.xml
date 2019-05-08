@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="jwt_provider">
+    <jwt_provider action="INSERT_OR_UPDATE">
+        <expiry_interval>60</expiry_interval>
+        <jwt_keystore_alias display_value="CCW0708_JWT">bdafd6a1255533007f44b9f1e823aec4</jwt_keystore_alias>
+        <name>CCW0708_JWT_Provider</name>
+        <sys_class_name>jwt_provider</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-08 21:35:55</sys_created_on>
+        <sys_id>6bff5aa1255533007f44b9f1e823ae33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CCW0708_JWT_Provider</sys_name>
+        <sys_package display_value="googleSheetIHspoke" source="x_snc_googlesheeti">963016ad251533007f44b9f1e823aeb6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="googleSheetIHspoke">963016ad251533007f44b9f1e823aeb6</sys_scope>
+        <sys_update_name>jwt_provider_6bff5aa1255533007f44b9f1e823ae33</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-08 21:35:55</sys_updated_on>
+    </jwt_provider>
+</record_update>

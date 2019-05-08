@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_cat_variable_model">
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>332bae65255533007f44b9f1e823aed1</id>
+        <name>CCW0708 Read Flow</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-08 22:24:35</sys_created_on>
+        <sys_id>772bae65255533007f44b9f1e823aed1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CCW0708 Read Flow</sys_name>
+        <sys_package display_value="googleSheetIHspoke" source="x_snc_googlesheeti">963016ad251533007f44b9f1e823aeb6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="googleSheetIHspoke">963016ad251533007f44b9f1e823aeb6</sys_scope>
+        <sys_update_name>sys_flow_cat_variable_model_772bae65255533007f44b9f1e823aed1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-08 22:24:35</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>

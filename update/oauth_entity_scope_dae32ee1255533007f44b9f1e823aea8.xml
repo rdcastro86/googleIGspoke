@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="oauth_entity_scope">
+    <oauth_entity_scope action="INSERT_OR_UPDATE">
+        <name>https://www.googleapis.com/auth/spreadsheets</name>
+        <oauth_entity display_value="CCW0708_OAuth_Provider">71e3eae1255533007f44b9f1e823aef2</oauth_entity>
+        <oauth_entity_scope>https://www.googleapis.com/auth/spreadsheets</oauth_entity_scope>
+        <sys_class_name>oauth_entity_scope</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-08 21:54:16</sys_created_on>
+        <sys_id>dae32ee1255533007f44b9f1e823aea8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>https://www.googleapis.com/auth/spreadsheets</sys_name>
+        <sys_package display_value="googleSheetIHspoke" source="x_snc_googlesheeti">963016ad251533007f44b9f1e823aeb6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="googleSheetIHspoke">963016ad251533007f44b9f1e823aeb6</sys_scope>
+        <sys_update_name>oauth_entity_scope_dae32ee1255533007f44b9f1e823aea8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-08 21:54:16</sys_updated_on>
+    </oauth_entity_scope>
+</record_update>
